@@ -209,5 +209,5 @@ Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' '
 - **Turismo** → mayor bienestar general (**IDH y PIB per cápita** positivos), pero con mayor **precariedad laboral**.  
 - **Petróleo** → más empleos estables y salarios altos, pero con un impacto **menos inclusivo** en calidad de vida amplia.  
 
-👉 Los resultados empíricos respaldan la idea de que **el turismo contribuye más al bienestar colectivo que el petróleo, aunque a costa de una mayor precariedad laboral**.
+👉 Aunque el modelo tiene valores  debiles y algunos resultados poca significativos,este modelo  general y basico,nos da una idea,asi como en la representacion de los gráficos que **el turismo contribuye más al bienestar colectivo que el sector petróleo, sus ingresos a lo largo del tiempo son mas estable,una tendencia  alcista mas sostenida en el tiempo,sin fluctuaciones tan marcadas.Se espera mejorar el modelo,incluyendo otros factores que no se tuvieron en cuenta,asi como variables,con el objetivo de mejorarlo y evaluar mejores resultados.
 
